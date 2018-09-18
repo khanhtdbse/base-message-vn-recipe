@@ -1,14 +1,14 @@
 {
-	"name": "Zalo",
+	"name": "Base Message",
 	"version": "1.0.0",
-	"description": "Franz 5 Zalo Plugin",
+	"description": "Franz 5 Base Message Plugin",
 	"main": "index.js",
 	"author": "khanhtd <tranduykhanhyc@gmail.com>",
 	"license": "MIT",
-	"id": "zalo",
+	"id": "basevn",
 	"config": {
-		"serviceURL": "http://web.zaloapp.com/login",
+		"serviceURL": "https://account.base.vn/account",
 		"hasNotificationSound": true,
-		"message": "The new market-leading messaging app with amazing features."
+		"message": "Fast, rich features message application for the enterprise"
 	}
 }

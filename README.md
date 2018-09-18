@@ -1,2 +1,2 @@
 # zalo-franz-recipe
-Zalo recipe for franz 5
+Base Message recipe for Franz 5
