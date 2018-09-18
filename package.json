@@ -1,0 +1,14 @@
+{
+	"name": "Zalo",
+	"version": "1.0.0",
+	"description": "Franz 5 Zalo Plugin",
+	"main": "index.js",
+	"author": "khanhtd <tranduykhanhyc@gmail.com>",
+	"license": "MIT",
+	"id": "zalo",
+	"config": {
+		"serviceURL": "http://web.zaloapp.com/login",
+		"hasNotificationSound": true,
+		"message": "The new market-leading messaging app with amazing features."
+	}
+}
